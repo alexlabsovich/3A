@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 # Впиши сюда токен бота (от @BotFather)
-BOT_TOKEN = "СЮДА_ТОКЕН_БОТА"
+BOT_TOKEN = "8396112479:AAHlgmc_nc_9FMTCkHwJY_M7reQZzXmtdnc"
 
 # Впиши сюда ключ Groq (из https://console.groq.com/keys)
-GROQ_API_KEY = "СЮДА_КЛЮЧ_GROQ"
+GROQ_API_KEY = "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"
 
 # Твой Telegram ID — бот отвечает только ему
 ALLOWED_USER_ID = 8373993954
